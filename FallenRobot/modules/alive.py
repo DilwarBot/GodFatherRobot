@@ -18,14 +18,14 @@ PHOTO = [
 @register(pattern=("/alive"))
 async def awake(event):
   TEXT = f"**ʜᴇʏ​ [{event.sender.first_name}](tg://user?id={event.sender.id}),\n\nɪ ᴀᴍ 𝚂𝚃𝙰𝚁 ✘ 𝚁𝙾𝙱𝙾𝚃​**\n━━━━━━━━━━━━━━━━━━━\n\n"
-  TEXT += f"» **ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ : [𝐒𝐓𝐀𝐑🇽𝐁𝐎𝐈](https://t.me/its_star_boi)** \n\n"
+  TEXT += f"» **ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ : [❰🇸O🇸❱™🌈 𓆩NJ𓆪 ](https://t.me/ITS_YOUR_BOY_NJ)** \n\n"
   TEXT += f"» **ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ :** `{telever}` \n\n"
   TEXT += f"» **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{tlhver}` \n\n"
   TEXT += f"» **ᴘʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ :** `{pyrover}` \n━━━━━━━━━━━━━━━━━\n\n"
   BUTTON = [
         [
             Button.url("ʜᴇʟᴘ​", f"https://t.me/itz_star_robot?start=help"),
-            Button.url("sᴜᴘᴘᴏʀᴛ​", f"https://t.me/Best_FriendsFor_Ever"),
+            Button.url("sᴜᴘᴘᴏʀᴛ​", f"https://t.me/AJ_NJ_SOS"),
         ]
     ]
   ran = random.choice(PHOTO)
