@@ -252,7 +252,7 @@ LOGO_LINKS            = ["https://telegra.ph/file/d1838efdafce9fe611d0c.jpg",
 async def lego(event):
  quew = event.pattern_match.group(1)
  if event.sender_id != OWNER_ID and not quew:
-  await event.reply('`ɢɪᴠᴇ sᴏᴍᴇ ᴛᴇxᴛ ᴛᴏ ᴄʀᴇᴀᴛᴇ ʟᴏɢᴏ ʙᴀʙʏ​ !`\n`Example /logo <𝐒𝐓𝐀𝐑🇽𝐁𝐎𝐈>`')
+  await event.reply('`ɢɪᴠᴇ sᴏᴍᴇ ᴛᴇxᴛ ᴛᴏ ᴄʀᴇᴀᴛᴇ ʟᴏɢᴏ ʙᴀʙʏ​ !`\n`Example /logo ❰🇸O🇸❱™🌈 𓆩NJ𓆪 `')
   return
  pesan = await event.reply('**ᴄʀᴇᴀᴛɪɴɢ ʏᴏᴜʀ ʀᴇǫᴜᴇsᴛᴇᴅ ʟᴏɢᴏ ᴘʟᴇᴀsᴇ ᴡᴀɪᴛ ᴀ sᴇᴄ​...**')
  try:
@@ -281,7 +281,7 @@ async def lego(event):
     if os.path.exists(fname):
             os.remove(fname)
  except Exception as e:
-    await event.reply(f'ғʟᴏᴏᴅᴡᴀɪᴛ ᴇʀʀᴏʀ, ʀᴇᴩᴏʀᴛ ᴛʜɪs ᴀᴛ @Best_FriendsFor_Ever')
+    await event.reply(f'ғʟᴏᴏᴅᴡᴀɪᴛ ᴇʀʀᴏʀ, ʀᴇᴩᴏʀᴛ ᴛʜɪs ᴀᴛ @AJ_NJ_SOS')
 
 
 __mod_name__ = "©️ʟᴏɢᴏ"
