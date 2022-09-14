@@ -10,11 +10,11 @@
 </p>
 ━━━━━━━━━━━━━━━━━━━━━━
 <p align="center">
-  <img src="https://telegra.ph/file/26b5ac4684af8c68ebdce.jpg">
+  <img src="https://telegra.ph/file/003133f6e23de4e592636.jpg">
 </p>
 
-##ㅤ🖤 𝐒𝐓𝐀𝐑🇽𝐑𝐎𝐁𝐎𝐓 🖤
-ɪ ᴀᴍ ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [💞𝐒𝐓𝐀𝐑🇽𝐑𝐎𝐁𝐎𝐓💞](https://t.me/Itz_star_robot)
+##ㅤ🖤 𝔾𝕆𝔻𝔽𝔸𝕋ℍ𝔼ℝ 🖤
+ɪ ᴀᴍ ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [💞𝔾𝕆𝔻𝔽𝔸𝕋ℍ𝔼ℝ💞](https://t.me/GodFatherXRobot)
 ᴛʜɪs ɪs ᴀ ᴅᴇᴍᴏ ʙᴏᴛ <br> ɪ ᴅᴏɴ'ᴛ ᴋɴᴏᴡ нσω ʟᴏɴɢᴇʀ ɪ'ʟʟ вε ʜᴏsᴛɪɴɢ ɪᴛ​...
 ━━━━━━━━━━━━━━━━━━━━━━
 ## ㅤㅤㅤᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ​ 🚀
@@ -24,4 +24,4 @@
 
 ### ㅤㅤㅤㅤCREDITS 😘
 
-🖤 💞𝐒𝐓𝐀𝐑🇽𝐁𝐎𝐈💞  : ᴍᴇ ᴏɴ [ɢɪᴛʜᴜʙ💞](https://github.com/Starboihacks369)ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ᴍᴇ ᴏɴ [ᴛᴇʟᴇɢʀᴀᴍ💔](https://telegram.me/its_star_boi)
+🖤 💞𝔸𝕃𝕆ℕ𝔼💞  : ᴍᴇ ᴏɴ [ɢɪᴛʜᴜʙ💞](https://github.com/DilwarBot)ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ᴍᴇ ᴏɴ [ᴛᴇʟᴇɢʀᴀᴍ💔](https://telegram.me/ALONE_WAS_BOT)
